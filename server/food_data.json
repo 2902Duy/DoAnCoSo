@@ -1,0 +1,1892 @@
+[
+  {
+    "key": "banh_bao",
+    "name": "Bánh bao",
+    "ingredients": [
+      "300g bột mì đa dụng",
+      "5g men nở instant",
+      "30g đường trắng",
+      "150ml sữa tươi không đường",
+      "1 lòng trắng trứng",
+      "20g dầu ăn",
+      "200g thịt heo xay",
+      "5 cái nấm đông cô",
+      "1 củ hành tây nhỏ",
+      "1 thìa cà phê hạt nêm",
+      "1/2 thìa cà phê tiêu",
+      "10 quả trứng cút luộc (nếu thích)"
+    ],
+    "instructions": [
+      "Pha men với 50ml sữa ấm (35°C) và 1 thìa đường, để 10 phút cho nổi bọt.",
+      "Trộn bột mì với đường còn lại, thêm từ từ hỗn hợp men, lòng trắng trứng và dầu ăn.",
+      "Nhồi bột 15-20 phút đến khi mịn đàn hồi, không dính tay.",
+      "Ủ bột 1 tiếng ở nơi ấm (có thể cho vào lò vi sóng cùng 1 cốc nước nóng) cho nở gấp đôi.",
+      "Xào thịt heo với hành tây băm nhuyễn, nấm đông cô ngâm mềm thái hạt lựu, nêm hạt nêm và tiêu.",
+      "Chia bột thành phần nhỏ khoảng 50g, cán tròn mỏng, cho 1 thìa nhân + 1/2 quả trứng cút vào giữa.",
+      "Gói kín bánh, xếp vào xửng hấp đã lót giấy nến.",
+      "Ủ bánh thêm 20 phút rồi hấp 15 phút ở lửa vừa.",
+      "Mở nắp từ từ tránh bánh xẹp do thay đổi nhiệt độ đột ngột."
+    ],
+    "description": "Bánh bao là món điểm sáng phổ biến ở Việt Nam, bánh có vỏ mềm xốp, nhân mặn thường gồm thịt heo, trứng cút và gia vị đặc trưng."
+  },
+  {
+    "key": "banh_beo",
+    "name": "Bánh bèo",
+    "ingredients": [
+      "200g bột gạo",
+      "50g bột năng",
+      "500ml nước lọc",
+      "1/2 thìa cà phê muối",
+      "150g tôm khô",
+      "100g da heo chiên giòn",
+      "Hành lá, ớt băm",
+      "Nước mắm pha loãng"
+    ],
+    "instructions": [
+      "Ngâm tôm khô trong nước ấm 15 phút, giã nhỏ hoặc xay nhuyễn.",
+      "Trộn đều bột gạo, bột năng với nước và muối, lọc qua rây cho mịn.",
+      "Đổ bột vào từng chén nhỏ (khoảng 2/3 chén), hấp cách thủy 10 phút.",
+      "Phi thơm hành tỏi, xào tôm khô với chút nước mắm đến khi săn lại.",
+      "Khi bánh chín, rắc tôm khô, da heo chiên giòn vụn lên mặt.",
+      "Chan nước mắm pha loãng (tỷ lệ 1 mắm : 1 đường : 2 nước), thêm ớt băm nếu thích ăn cay."
+    ],
+    "description": "Bánh bèo là đặc sản Huế, có nhiều biến thể theo vùng miền. Bánh nhỏ xinh trong chén, thưởng thức bằng cách dùng thìa cạo từng miếng nhỏ kèm topping đậm vị."
+  },
+  {
+    "key": "banh_bo",
+    "name": "Bánh bò",
+    "ingredients": [
+      "250g bột gạo",
+      "100g đường cát trắng",
+      "200ml nước cốt dừa",
+      "5g men nở",
+      "1/2 thìa cà phê muối",
+      "1 ống vani",
+      "Lá dứa (nếu muốn có màu xanh)"
+    ],
+    "instructions": [
+      "Hòa tan men nở với 50ml nước ấm (khoảng 35°C) cùng 1 thìa đường, để 10 phút cho nổi bọt.",
+      "Xay lá dứa với 100ml nước, lọc lấy nước cốt (nếu dùng).",
+      "Trộn bột gạo với đường còn lại, muối, vani, nước cốt dừa và nước men.",
+      "Khuấy đều tay theo một chiều đến khi hỗn hợp mịn màng, để nghỉ 1 tiếng cho bột nở.",
+      "Đổ bột vào khuôn đã thoa dầu (chỉ đổ 2/3 khuôn), hấp cách thủy 20 phút.",
+      "Kiểm tra bánh chín bằng tăm xiên vào giữa bánh không dính là được."
+    ],
+    "description": "Bánh bò truyền thống Nam Bộ có vị ngọt thanh từ nước cốt dừa, kết cấu xốp mềm với những lỗ khí đặc trưng. Thường được cắt thành từng miếng hình tam giác khi thưởng thức."
+  },
+  {
+    "key": "banh_bot_loc",
+    "name": "Bánh bột lọc",
+    "ingredients": [
+      "300g bột năng",
+      "150g tôm tươi",
+      "100g thịt ba chỉ",
+      "Hành tím, tỏi băm",
+      "Lá chuối hoặc giấy nến",
+      "Gia vị: muối, đường, tiêu, nước mắm"
+    ],
+    "instructions": [
+      "Tôm bóc vỏ, bỏ chỉ đen, ướp với chút hành tỏi băm. Thịt ba chỉ thái sợi nhỏ.",
+      "Xào riêng tôm và thịt với chút gia vị đến khi chín tới.",
+      "Đun sôi 300ml nước với 1/2 thìa muối, từ từ đổ vào bột năng, nhào đến khi bột dẻo mịn.",
+      "Cán bột mỏng, cắt thành từng miếng vuông nhỏ, cho nhân vào giữa, gói kín.",
+      "Hấp cách thủy 10 phút hoặc luộc trong nước sôi đến khi bánh trong suốt.",
+      "Ăn nóng với nước mắm ớt tỏi và rau sống."
+    ],
+    "description": "Bánh bột lọc Huế có hai phiên bản gói lá chuối và trần. Bánh trong suốt lộ rõ nhân tôm thịt bên trong, dai giòn đặc trưng từ bột năng."
+  },
+  {
+    "key": "banh_chung",
+    "name": "Bánh chưng",
+    "ingredients": [
+      "1kg gạo nếp ngon",
+      "300g đậu xanh không vỏ",
+      "500g thịt ba chỉ",
+      "Lá dong tươi",
+      "Lạt giang",
+      "Hạt tiêu, muối",
+      "Hành khô"
+    ],
+    "instructions": [
+      "Ngâm gạo nếp 6-8 tiếng, đậu xanh ngâm 4 tiếng. Thịt ướp hành tím, tiêu, muối.",
+      "Rửa lá dong, lau khô, cắt bỏ cuống. Đậu xanh đãi sạch vỏ, nấu chín tới.",
+      "Xếp 2 lá dong chồng lên nhau theo hình chữ thập, đổ 1 bát gạo, dàn đều.",
+      "Thêm lớp đậu xanh, 1-2 miếng thịt, phủ tiếp đậu và gạo lên trên.",
+      "Gói chặt tay, buộc lạt theo chiều dọc và ngang để cố định hình vuông.",
+      "Luộc bánh trong nồi lớn 8-10 tiếng, thêm nước nóng khi cần để ngập bánh.",
+      "Vớt ra ép phẳng bằng vật nặng trong 1 giờ trước khi cắt ăn."
+    ],
+    "description": "Bánh chưng là linh hồn ẩm thực Tết cổ truyền miền Bắc, tượng trưng cho đất với màu xanh lá dong, vị béo ngậy từ thịt mỡ và đậu xanh bùi bùi."
+  },
+  {
+    "key": "banh_cong",
+    "name": "Bánh cống",
+    "ingredients": [
+      "200g bột gạo",
+      "50g bột năng",
+      "100g tôm đất",
+      "100g thịt heo xay",
+      "50g đậu xanh không vỏ",
+      "Hành lá, dầu ăn",
+      "Nước mắm pha"
+    ],
+    "instructions": [
+      "Ngâm đậu xanh 2 tiếng, hấp chín rồi giã nhuyễn",
+      "Trộn bột gạo và bột năng với nước thành hỗn hợp sền sệt",
+      "Xào thịt heo với tôm bóc vỏ, nêm gia vị vừa ăn",
+      "Đổ bột vào khuôn bánh cống đã thoa dầu",
+      "Thêm nhân thịt tôm và đậu xanh vào giữa",
+      "Chiên vàng đều hai mặt trong dầu nóng",
+      "Ăn nóng với rau sống và nước mắm chua ngọt"
+    ],
+    "description": "Đặc sản Sóc Trăng với lớp vỏ giòn rụm, nhân thịt tôm đậm đà, thường được đổ trong khuôn đất nung đặc biệt"
+  },
+  {
+    "key": "banh_cuon",
+    "name": "Bánh cuốn",
+    "ingredients": [
+      "200g bột gạo",
+      "50g bột năng",
+      "500ml nước",
+      "1/2 thìa muối",
+      "200g thịt heo xay",
+      "50g mộc nhĩ",
+      "Hành khô phi",
+      "Nước mắm pha loãng"
+    ],
+    "instructions": [
+      "Ngâm mộc nhĩ trong nước ấm 15 phút, thái sợi nhỏ. Xào thịt với mộc nhĩ, nêm gia vị.",
+      "Pha bột gạo, bột năng với nước và muối, lọc qua rây cho mịn.",
+      "Đun nóng chảo chống dính, quét lớp dầu mỏng, đổ 1 muôi bột tráng mỏng.",
+      "Khi bánh chín (khoảng 1 phút), rắc nhân vào giữa, cuộn lại bằng đũa.",
+      "Xếp bánh ra đĩa, rắc hành phi, ăn kèm nước mắm pha chua ngọt và chả lụa."
+    ],
+    "description": "Bánh cuốn Hà Nội mỏng như lụa với nhân thịt mộc nhĩ thơm ngậy, thường dùng làm bữa sáng kèm chả quế và rau sống."
+  },
+
+  {
+    "key": "banh_da_cua",
+    "name": "Bánh đa cua",
+    "ingredients": [
+      "200g bánh đa đỏ",
+      "150g thịt cua đồng",
+      "100g giò sống",
+      "1 quả trứng gà",
+      "Hành khô, thì là",
+      "1 lít nước dùng xương",
+      "Rau sống ăn kèm"
+    ],
+    "instructions": [
+      "Phi thơm hành khô, xào thịt cua với chút nước mắm",
+      "Vo viên giò sống trộn với hành băm",
+      "Đun sôi nước dùng, thả viên giò vào",
+      "Đập trứng khuấy đều tạo vân",
+      "Trần bánh đa qua nước sôi 10 giây",
+      "Chan nước dùng nóng với cua, trứng, rắc thì là",
+      "Ăn kèm rau sống và chanh ớt"
+    ],
+    "description": "Đặc sản Hải Phòng với sợi bánh đa đỏ dai giòn, nước dùng ngọt từ cua đồng, thường có thêm trứng và viên giò"
+  },
+  {
+    "key": "banh_da_lon",
+    "name": "Bánh da lợn",
+    "ingredients": [
+      "200g bột nếp",
+      "50g bột khoai mỡ",
+      "100g đường cát trắng",
+      "200ml nước cốt dừa",
+      "Lá dứa, vani",
+      "1/2 thìa muối"
+    ],
+    "instructions": [
+      "Xay lá dứa với 100ml nước, lọc lấy nước cốt",
+      "Pha bột nếp và bột khoai mỡ thành 2 phần bằng nhau",
+      "Phần 1 trộn với nước cốt dứa, phần 2 trộn nước cốt dừa",
+      "Thêm đường, muối, vani vào cả hai phần",
+      "Đổ từng lớp vào khuôn, hấp chín mỗi lớp 5 phút",
+      "Hấp tổng cộng 4-5 lớp, lớp cuối cùng hấp 10 phút",
+      "Để nguội cắt miếng vuông vừa ăn"
+    ],
+    "description": "Bánh nhiều lớp dai mềm đặc trưng miền Nam, có vị ngọt thanh và mùi thơm đặc trưng từ lá dứa"
+  },
+  {
+    "key": "banh_da_me_den",
+    "name": "Bánh đa mè đen",
+    "ingredients": [
+      "200g bột gạo",
+      "50g mè đen",
+      "1 thìa đường",
+      "1/2 thìa muối",
+      "1 thìa dầu ăn",
+      "500ml nước lọc"
+    ],
+    "instructions": [
+      "Ngâm mè đen trong nước ấm 15 phút",
+      "Xay bột gạo với nước thành hỗn hợp mịn",
+      "Trộn đều với mè đen, đường, muối và dầu ăn",
+      "Tráng mỏng trên chảo chống dính hoặc vải căng",
+      "Phơi nắng 2-3 giờ hoặc sấy khô ở nhiệt độ thấp",
+      "Nướng giòn trên than hoa trước khi ăn"
+    ],
+    "description": "Bánh tráng giòn rụm phủ đầy mè đen thơm ngậy, thường dùng kèm thịt nướng hoặc ăn vặt"
+  },
+  {
+    "key": "banh_gai",
+    "name": "Bánh gai",
+    "ingredients": [
+      "300g bột nếp",
+      "100g lá gai tươi",
+      "200g đậu xanh không vỏ",
+      "100g đường",
+      "50g dừa nạo",
+      "Lá chuối tươi",
+      "1 thìa vừng trắng"
+    ],
+    "instructions": [
+      "Lá gai luộc chín, xay nhuyễn trộn với bột nếp",
+      "Đậu xanh nấu chín, trộn đường và dừa làm nhân",
+      "Chia bột thành phần nhỏ, cán mỏng bọc nhân",
+      "Gói bằng lá chuối thành hình vuông",
+      "Hấp cách thủy 30 phút",
+      "Khi chín rắc vừng lên mặt"
+    ],
+    "description": "Bánh truyền thống vùng Bắc Bộ với màu đen tự nhiên từ lá gai, nhân đậu xanh bùi ngậy, thường dùng trong dịp lễ tết"
+  },
+  {
+    "key": "banh_giay",
+    "name": "Bánh giày",
+    "ingredients": [
+      "500g gạo nếp ngon",
+      "1/2 thìa muối",
+      "100g đường (nếu làm ngọt)",
+      "Lá chuối hoặc giấy nến"
+    ],
+    "instructions": [
+      "Ngâm gạo nếp 6-8 tiếng, vo sạch",
+      "Đồ chín gạo như đồ xôi",
+      "Giã nóng trong cối đá đến khi dẻo mịn",
+      "Nặn thành từng bánh tròn dẹt",
+      "Lót lá chuối, xếp bánh lên trên",
+      "Có thể rắc vừng rang nếu thích"
+    ],
+    "description": "Bánh truyền thống dân tộc Mường, thường dùng với giò lụa trong các dịp lễ tết"
+  },
+  {
+    "key": "banh_gio",
+    "name": "Bánh giò",
+    "ingredients": [
+      "300g bột gạo",
+      "100g thịt heo xay",
+      "50g mộc nhĩ",
+      "Hành khô, tiêu",
+      "Lá chuối gói",
+      "1 lít nước dùng"
+    ],
+    "instructions": [
+      "Xào thịt với mộc nhĩ thái nhỏ, nêm gia vị",
+      "Pha bột gạo với nước dùng nóng khuấy đều",
+      "Đun hỗn hợp bột trên lửa nhỏ đến khi sánh",
+      "Xếp lá chuối, đổ lớp bột, thêm nhân, phủ bột",
+      "Gói kín, hấp cách thủy 1 tiếng"
+    ],
+    "description": "Bánh có lớp vỏ bột mềm mịn, nhân thịt mộc nhĩ thơm ngon, thường ăn nóng với dưa góp"
+  },
+  {
+    "key": "banh_khot",
+    "name": "Bánh khọt",
+    "ingredients": [
+      "200g bột gạo",
+      "50g bột nghệ",
+      "100g tôm tươi",
+      "Nước cốt dừa",
+      "Hành lá, dầu ăn",
+      "Rau sống ăn kèm"
+    ],
+    "instructions": [
+      "Pha bột gạo, bột nghệ với nước cốt dừa",
+      "Đổ bột vào khuôn bánh khọt đã thoa dầu",
+      "Đặt tôm đã bóc vỏ lên trên mỗi bánh",
+      "Rắc hành lá, nướng đến khi vàng giòn",
+      "Dùng nóng với rau sống và nước mắm chua ngọt"
+    ],
+    "description": "Đặc sản miền Nam với bánh nhỏ giòn tan, thường được đổ trong khuôn đặc biệt tạo hình hoa"
+  },
+  {
+    "key": "banh_la",
+    "name": "Bánh lá",
+    "ingredients": [
+      "300g bột nếp",
+      "100g đậu xanh không vỏ",
+      "50g thịt heo xay",
+      "Lá chuối tươi",
+      "Hành tím, tiêu",
+      "Nước mắm, đường"
+    ],
+    "instructions": [
+      "Ngâm đậu xanh 2 giờ, hấp chín, trộn với thịt heo xào chín",
+      "Nhào bột nếp với nước ấm thành khối dẻo mịn",
+      "Cắt lá chuối thành hình vuông cỡ bàn tay",
+      "Đặt lớp bột lên lá, thêm nhân, gói thành hình chữ nhật",
+      "Hấp cách thủy 30 phút",
+      "Ăn nóng với nước mắm pha chua ngọt"
+    ],
+    "description": "Đặc sản Huế với bánh gói lá chuối, nhân đậu xanh thịt heo đậm đà, thường dùng trong các dịp lễ"
+  },
+  {
+    "key": "banh_mi",
+    "name": "Bánh mì",
+    "ingredients": [
+      "1 ổ bánh mì Việt Nam",
+      "100g thịt nguội (jambon)",
+      "80g pate gan",
+      "50g chả lụa",
+      "1 quả dưa leo",
+      "1 củ cải trắng ngâm",
+      "Rau mùi, hành ngò",
+      "Bơ, mayonnaise",
+      "Tương ớt, xì dầu"
+    ],
+    "instructions": [
+      "Nướng giòn bánh mì ở nhiệt độ 180°C trong 5 phút",
+      "Phết lớp pate và bơ mỏng bên trong ổ bánh",
+      "Xếp lần lượt thịt nguội, chả lụa thái lát",
+      "Thêm dưa leo thái mỏng, củ cải ngâm",
+      "Rắc rau thơm, rưới chút xì dầu/tương ớt tùy khẩu vị",
+      "Ép nhẹ để các nguyên liệu kết dính trước khi cắt đôi"
+    ],
+    "description": "Bánh mì Việt Nam - món ăn đường phố nổi tiếng toàn cầu với vỏ giòn rụm kết hợp nhân đa dạng từ thịt nguội, pate béo ngậy và đồ chua thanh mát."
+  },
+  {
+    "key": "banh_pia",
+    "name": "Bánh pía",
+    "ingredients": [
+      "300g bột mì đa dụng",
+      "150g đậu xanh không vỏ",
+      "100g đường",
+      "50g mỡ heo",
+      "1 lòng đỏ trứng",
+      "Vani, nước hoa bưởi"
+    ],
+    "instructions": [
+      "Đậu xanh ngâm mềm, hấp chín, trộn đường và mỡ heo xào đến khi dẻo",
+      "Nhào bột mì với nước ấm thành khối mịn",
+      "Cán bột mỏng, gói nhân đậu xanh vào giữa",
+      "Ép khuôn tạo hoa văn",
+      "Phết lòng đỏ trứng lên mặt",
+      "Nướng ở 180°C trong 20-25 phút"
+    ],
+    "description": "Đặc sản Sóc Trăng với nhiều lớp vỏ bánh mỏng, nhân đậu xanh bùi ngậy, có thể thêm sầu riêng"
+  },
+  {
+    "key": "banh_tai_heo",
+    "name": "Bánh tai heo",
+    "ingredients": [
+      "200g bột mì",
+      "50g đường",
+      "1 quả trứng gà",
+      "1 thìa sữa đặc",
+      "Màu thực phẩm hồng/trắng",
+      "1/2 thìa bột nở",
+      "Dầu ăn để chiên"
+    ],
+    "instructions": [
+      "Trộn bột mì với đường, trứng, sữa đặc và bột nở",
+      "Chia bột thành 2 phần, 1 phần pha màu hồng",
+      "Cán mỏng từng phần, xếp chồng lên nhau",
+      "Cuộn tròn, cắt lát mỏng 0.5cm",
+      "Chiên ngập dầu đến khi nở phồng vàng giòn",
+      "Để ráo dầu trên giấy thấm"
+    ],
+    "description": "Bánh có hình dáng giống tai heo ngộ nghĩnh, giòn tan, thường được trẻ em yêu thích"
+  },
+  {
+    "key": "banh_tet",
+    "name": "Bánh tét",
+    "ingredients": [
+      "1kg gạo nếp ngon",
+      "300g đậu xanh không vỏ",
+      "500g thịt ba chỉ",
+      "Lá chuối tươi",
+      "Lạt buộc",
+      "Muối, tiêu",
+      "Hành tím"
+    ],
+    "instructions": [
+      "Ngâm gạo nếp 6 tiếng, đậu xanh 4 tiếng",
+      "Ướp thịt với hành tím, muối tiêu 30 phút",
+      "Đậu xanh đãi vỏ, nấu chín tới, giã nhuyễn",
+      "Xếp lá chuối, đổ gạo, thêm lớp đậu và thịt",
+      "Gói chặt tay thành hình trụ dài, buộc lạt",
+      "Luộc trong nồi lớn 6-8 tiếng",
+      "Ép phẳng khi còn nóng, để nguội cắt khoanh"
+    ],
+    "description": "Bánh Tét là phiên bản miền Nam của bánh chưng, có hình trụ dài, thường được gói bằng lá chuối với nhân đậu xanh và thịt mỡ."
+  },
+  {
+    "key": "banh_tieu",
+    "name": "Bánh tiêu",
+    "ingredients": [
+      "300g bột mì",
+      "5g men nở",
+      "30g đường",
+      "150ml nước ấm",
+      "1/2 thìa muối",
+      "Mè trắng",
+      "Dầu ăn để chiên"
+    ],
+    "instructions": [
+      "Hòa men với nước ấm và đường, để 10 phút",
+      "Trộn bột mì với muối, từ từ đổ nước men vào nhồi đều",
+      "Ủ bột 1 tiếng cho nở gấp đôi",
+      "Nặn bột thành sợi dài, cắt khúc ngắn",
+      "Lăn qua mè trắng, ủ thêm 15 phút",
+      "Chiên ngập dầu đến khi phồng vàng"
+    ],
+    "description": "Bánh có hình dáng giống chiếc nhẫn, rỗng ruột, giòn bên ngoài mềm bên trong, thường ăn sáng với xôi"
+  },
+  {
+    "key": "banh_trang_nuong",
+    "name": "Bánh tráng nướng",
+    "ingredients": [
+      "1 cái bánh tráng lớn",
+      "1 quả trứng gà",
+      "50g phô mai bào",
+      "30g khô bò",
+      "Hành lá, tương ớt",
+      "Sốt mayonnaise",
+      "Bơ thực vật"
+    ],
+    "instructions": [
+      "Quét lớp bơ mỏng lên bánh tráng",
+      "Đập trứng đánh đều phủ kín mặt bánh",
+      "Rắc phô mai, khô bò, hành lá lên trên",
+      "Nướng trên than hoa đến khi vàng giòn",
+      "Rưới sốt mayonnaise và tương ớt trước khi ăn"
+    ],
+    "description": "Đặc sản Đà Lạt với bánh tráng nướng giòn tan phủ đầy trứng, phô mai béo ngậy và các loại topping hấp dẫn."
+  },
+  {
+    "key": "banh_troi_nuoc",
+    "name": "Bánh trôi nước",
+    "ingredients": [
+      "300g bột nếp",
+      "100g đường phên",
+      "1 thìa gừng tươi giã nhỏ",
+      "Vừng trắng rang",
+      "Nước lọc"
+    ],
+    "instructions": [
+      "Nhào bột nếp với nước ấm thành khối dẻo mịn",
+      "Nặn đường phên thành viên nhỏ",
+      "Bọc bột ngoài viên đường, vo tròn",
+      "Luộc trong nước sôi đến khi bánh nổi lên",
+      "Vớt ra nhúng qua nước lạnh",
+      "Nấu nước đường với gừng, thả bánh vào",
+      "Rắc vừng rang lên khi ăn"
+    ],
+    "description": "Món bánh cổ truyền ngày Tết Hàn thực, viên bánh trắng mịn với nhân đường ngọt dịu"
+  },
+  {
+    "key": "banh_trung_sua",
+    "name": "Bánh trứng sữa",
+    "ingredients": [
+      "4 lòng đỏ trứng gà",
+      "200ml sữa tươi",
+      "50g đường",
+      "1 ống vani",
+      "Khuôn bánh flan"
+    ],
+    "instructions": [
+      "Đun sữa với đường đến khi đường tan hết",
+      "Đánh tan lòng đỏ trứng với vani",
+      "Từ từ rót sữa vào trứng, khuấy đều",
+      "Lọc qua rây cho hỗn hợp mịn",
+      "Rót vào khuôn, hấp cách thủy 20 phút",
+      "Để nguội, bảo quản ngăn mát tủ lạnh"
+    ],
+    "description": "Món tráng miệng mềm mịn như flan, vị ngọt thanh từ sữa và trứng"
+  },
+  {
+    "key": "banh_trung_thu",
+    "name": "Bánh trung thu",
+    "ingredients": [
+      "200g bột mì",
+      "100g nước đường bánh nướng",
+      "50g dầu ăn",
+      "1 lòng đỏ trứng",
+      "Nhân thập cẩm (trứng muối, mứt bí, hạt dưa, mỡ đường)"
+    ],
+    "instructions": [
+      "Trộn bột mì với nước đường và dầu ăn thành bột mịn",
+      "Ủ bột 30 phút",
+      "Chia bột và nhân theo tỷ lệ 1:2",
+      "Bọc nhân trong vỏ bánh, ép khuôn",
+      "Nướng ở 180°C trong 10 phút",
+      "Phết mặt bánh với lòng đỏ trứng, nướng thêm 5-7 phút"
+    ],
+    "description": "Bánh truyền thống Tết Trung thu, có hai loại nướng và dẻo với nhân thập cẩm đa dạng"
+  },
+  {
+    "key": "banh_u",
+    "name": "Bánh ú",
+    "ingredients": [
+      "300g bột nếp",
+      "100g đậu xanh không vỏ",
+      "50g đường",
+      "Lá chuối tươi",
+      "Lạt buộc"
+    ],
+    "instructions": [
+      "Ngâm đậu xanh 2 tiếng, hấp chín trộn với đường",
+      "Nhào bột nếp với nước thành khối dẻo",
+      "Gói bánh hình chóp bằng lá chuối",
+      "Cho 1 lớp bột, 1 thìa nhân đậu, phủ thêm bột",
+      "Buộc chặt bằng lạt, hấp cách thủy 45 phút"
+    ],
+    "description": "Bánh truyền thống miền Nam hình chóp nón, thường có nhân ngọt hoặc mặn"
+  },
+  {
+    "key": "banh_xeo",
+    "name": "Bánh xèo",
+    "ingredients": [
+      "200g bột gạo",
+      "50g bột nghệ",
+      "400ml nước cốt dừa",
+      "1/2 thìa muối",
+      "300g tôm tươi",
+      "200g thịt ba chỉ",
+      "Giá đỗ, rau xà lách",
+      "Nước mắm pha"
+    ],
+    "instructions": [
+      "Pha bột gạo, bột nghệ với nước cốt dừa và muối, để nghỉ 30 phút.",
+      "Thái thịt ba chỉ mỏng, ướp gia vị. Tôm bóc vỏ, bỏ chỉ đen.",
+      "Đun nóng chảo, phi hành tỏi, xếp thịt và tôm vào chiên sơ.",
+      "Đổ 1 muôi bột vào chảo, nghiêng đều để bánh mỏng, rắc giá đỗ lên.",
+      "Chiên vàng 2 mặt, gập đôi bánh khi chín. Ăn nóng với rau sống và nước mắm."
+    ],
+    "description": "Bánh xèo miền Tây có kích thước lớn, vị béo từ nước cốt dừa, màu vàng nghệ bắt mắt, thường được cuốn trong bánh tráng với các loại rau thơm."
+  },
+  {
+    "key": "bap_nuong",
+    "name": "Bắp nướng",
+    "ingredients": [
+      "2 bắp ngô tươi",
+      "2 thìa bơ",
+      "1 thìa mật ong",
+      "1 thìa muối ớt",
+      "Dụng cụ nướng"
+    ],
+    "instructions": [
+      "Lột vỏ bắp ngô nhưng giữ lại 1-2 lớp áo trong",
+      "Pha bơ với mật ong, quét đều lên bắp",
+      "Nướng trên than hoa hoặc lò nướng 15 phút",
+      "Lật đều tay đến khi vàng đều các mặt",
+      "Rắc muối ớt khi ăn"
+    ],
+    "description": "Món ăn vặt đường phố thơm mùi bơ mật ong, bắp ngọt tự nhiên kết hợp vị cay mặn"
+  },
+  {
+    "key": "bo_kho",
+    "name": "Bò kho",
+    "ingredients": [
+      "500g thịt bò (bắp hoặc gầu)",
+      "2 củ cà rốt",
+      "1 củ sả",
+      "2 thìa bột cà ri",
+      "1 thìa hạt nêm",
+      "1 thìa đường",
+      "1 thìa tỏi băm",
+      "500ml nước dừa tươi",
+      "Hành ngò, bánh mì"
+    ],
+    "instructions": [
+      "Thịt bò cắt miếng vuông 3cm, ướp với cà ri, hạt nêm, đường, tỏi trong 30 phút.",
+      "Phi thơm sả băm, cho thịt vào xào săn.",
+      "Thêm nước dừa, đun nhỏ lửa 1.5 giờ cho thịt mềm.",
+      "Cà rốt cắt khoanh dày 2cm, cho vào sau 45 phút.",
+      "Nêm nếm lại, thêm hành ngò trước khi tắt bếp.",
+      "Dùng nóng với bánh mì hoặc bún."
+    ],
+    "description": "Bò kho là món hầm đậm đà với thịt bò mềm, cà rốt ngọt, hương vị đặc trưng từ cà ri và nước dừa, thường dùng làm bữa sáng."
+  },
+  {
+    "key": "bo_luc_lac",
+    "name": "Bò lúc lắc",
+    "ingredients": [
+      "400g thịt bò thăn",
+      "1 củ hành tây",
+      "1 quả ớt chuông",
+      "2 thìa dầu hào",
+      "1 thìa tỏi băm",
+      "1 thìa đường",
+      "1 thìa tiêu",
+      "1 thìa rượu trắng",
+      "Dầu ăn"
+    ],
+    "instructions": [
+      "Thịt bò cắt miếng vuông 2cm, ướp với dầu hào, tỏi, đường, tiêu, rượu 15 phút.",
+      "Hành tây, ớt chuông cắt miếng vuông tương tự.",
+      "Làm nóng chảo, xào thịt bò nhanh với lửa lớn 2 phút.",
+      "Thêm rau củ vào đảo tiếp 1 phút.",
+      "Trình bày nóng, rắc thêm tiêu đen."
+    ],
+    "description": "Món bò lúc lắc có tên gọi từ cách đảo chảo khi nấu, thịt bò mềm, rau củ giòn, vị mặn ngọt từ dầu hào."
+  },
+  {
+    "key": "bo_ne",
+    "name": "Bò né",
+    "ingredients": [
+      "300g thịt bò thăn",
+      "2 quả trứng gà",
+      "1 cái bánh mì",
+      "Hành tây, cà chua",
+      "Tiêu, dầu hào",
+      "Dầu ăn"
+    ],
+    "instructions": [
+      "Thái thịt bò thành miếng mỏng, ướp dầu hào và tiêu",
+      "Áp chảo thịt nhanh với lửa lớn",
+      "Chiên trứng ốp la theo ý thích",
+      "Xào hành tây, cà chua làm sốt",
+      "Dùng nóng ngay trên chảo với bánh mì nướng"
+    ],
+    "description": "Món ăn sáng Sài Gòn độc đáo, dùng ngay trên chảo nóng với đủ thịt bò, trứng và bánh mì"
+  },
+  {
+    "key": "bo_nuong_la_lot",
+    "name": "Bò nướng lá lốt",
+    "ingredients": [
+      "300g thịt bò xay",
+      "20 lá lốt tươi",
+      "Hành tím, sả băm",
+      "Gia vị: nước mắm, đường, tiêu",
+      "Bún tươi, rau sống"
+    ],
+    "instructions": [
+      "Trộn thịt bò với hành, sả, gia vị",
+      "Cuốn vào lá lốt thành từng cuốn nhỏ",
+      "Nướng trên than hoa hoặc áp chảo",
+      "Dùng nóng với bún, rau sống và nước mắm pha"
+    ],
+    "description": "Món ăn đặc trưng Nam Bộ với thịt bò thơm ngon cuốn trong lá lốt nướng giòn"
+  },
+  {
+    "key": "bun_bo_hue",
+    "name": "Bún bò Huế",
+    "ingredients": [
+      "500g xương bò",
+      "300g thịt bắp bò",
+      "200g giò heo",
+      "2 thìa tương ớt Huế",
+      "Sả, hành tím, mắm ruốc",
+      "Bún sợi to",
+      "Rau sống: giá, chanh, rau thơm"
+    ],
+    "instructions": [
+      "Hầm xương bò với 3 lít nước cùng sả đập dập trong 2 giờ.",
+      "Thêm thịt bò và giò heo vào luộc chín, vớt ra thái lát.",
+      "Phi thơm hành tỏi, xào tương ớt và mắm ruốc, cho vào nồi nước dùng.",
+      "Trần bún qua nước sôi, xếp thịt lên, chan nước dùng nóng hổi.",
+      "Ăn kèm rau sống, chanh và ớt tươi."
+    ],
+    "description": "Bún bò Huế nổi tiếng với vị cay nồng đặc trưng từ tương ớt và mắm ruốc, nước dùng đậm đà từ xương bò hầm kỹ."
+  },
+  {
+    "key": "bun_cha_ca",
+    "name": "Bún chả cá",
+    "ingredients": [
+      "300g chả cá (cá thu hoặc cá lóc)",
+      "200g bún sợi to",
+      "1 quả dứa xanh",
+      "Cà chua, thì là",
+      "Nước mắm, ớt tươi",
+      "Giá đỗ, rau sống"
+    ],
+    "instructions": [
+      "Nấu nước dùng từ xương cá với dứa xanh",
+      "Chiên sơ chả cá đã thái miếng",
+      "Xào cà chua với hành tím làm sốt",
+      "Trần bún qua nước sôi, xếp vào tô",
+      "Chan nước dùng nóng, thêm chả cá và sốt cà chua",
+      "Rắc thì là, ăn kèm rau sống"
+    ],
+    "description": "Đặc sản miền Trung với chả cá dai thơm, nước dùng chua ngọt từ dứa xanh"
+  },
+  {
+    "key": "bun_dau_mam_tom",
+    "name": "Bún đậu mắm tôm",
+    "ingredients": [
+      "300g bún tươi",
+      "200g đậu hũ chiên",
+      "100g thịt chân giò luộc",
+      "50g nem chua",
+      "1 bát mắm tôm pha",
+      "Kinh giới, tía tô",
+      "Dưa leo, chuối xanh"
+    ],
+    "instructions": [
+      "Chiên vàng đậu hũ cắt miếng vừa ăn",
+      "Thái thịt chân giò thành lát mỏng",
+      "Bày các nguyên liệu ra mâm theo từng phần nhỏ",
+      "Pha mắm tôm với chanh, đường và ớt",
+      "Chấm các nguyên liệu vào mắm tôm, ăn kèm rau sống"
+    ],
+    "description": "Món ăn dân dã Hà Nội với sự kết hợp hài hòa giữa vị béo của đậu chiên, vị mặn đậm đà của mắm tôm và vị thanh mát từ các loại rau."
+  },
+  {
+    "key": "bun_rieu_cua",
+    "name": "Bún riêu cua",
+    "ingredients": [
+      "200g cua đồng xay",
+      "300g bún tươi",
+      "2 quả cà chua",
+      "100g đậu hũ chiên",
+      "Hành lá, thì là",
+      "Mắm tôm, ớt tươi",
+      "Rau sống ăn kèm"
+    ],
+    "instructions": [
+      "Lọc nước cua qua rây, giữ lại phần gạch",
+      "Đun sôi nước cua, vớt riêu nổi lên trên",
+      "Xào cà chua với gạch cua, cho vào nồi nước dùng",
+      "Nêm gia vị vừa ăn, thả đậu hũ chiên",
+      "Trần bún qua nước nóng, chan nước dùng và riêu cua",
+      "Thêm hành thì là, ăn kèm rau sống và mắm tôm"
+    ],
+    "description": "Đặc sản miền Bắc với vị ngọt tự nhiên từ cua đồng, riêu cua mềm béo kết hợp cùng vị chua nhẹ từ cà chua."
+  },
+  {
+    "key": "bun_thit_nuong",
+    "name": "Bún thịt nướng",
+    "ingredients": [
+      "300g thịt heo vai",
+      "200g bún tươi",
+      "Nước mắm pha",
+      "Rau sống (xà lách, giá, rau thơm)",
+      "Đậu phộng rang",
+      "Hành tím phi"
+    ],
+    "instructions": [
+      "Thái thịt thành miếng mỏng, ướp với tỏi, mắm, đường",
+      "Xiên que, nướng than hoa đến khi vàng thơm",
+      "Ngâm bún trong nước ấm 1 phút, vớt ra để ráo",
+      "Xếp bún, rau sống, thịt nướng vào tô",
+      "Rắc đậu phộng, hành phi, chan nước mắm pha"
+    ],
+    "description": "Món ăn đặc trưng miền Nam với thịt nướng thơm lừng, bún mềm và nước mắm chua ngọt"
+  },
+  {
+    "key": "canh_bi_do",
+    "name": "Canh bí đỏ",
+    "ingredients": [
+      "300g bí đỏ",
+      "100g thịt heo xay",
+      "Hành lá, ngò rí",
+      "Hạt nêm, nước mắm",
+      "1 lít nước dùng"
+    ],
+    "instructions": [
+      "Bí đỏ gọt vỏ, cắt miếng vừa ăn",
+      "Xào thịt heo với chút hành tím cho thơm",
+      "Thêm nước dùng, đun sôi rồi cho bí vào",
+      "Nấu đến khi bí chín mềm",
+      "Nêm gia vị vừa ăn, thêm hành ngò trước khi tắt bếp"
+    ],
+    "description": "Món canh bổ dưỡng với vị ngọt tự nhiên từ bí đỏ, thường dùng cho trẻ em và người già"
+  },
+  {
+    "key": "canh_chua",
+    "name": "Canh chua",
+    "ingredients": [
+      "300g cá (cá lóc hoặc cá diêu hồng)",
+      "1 quả dứa xanh",
+      "2 quả cà chua",
+      "50g giá đỗ",
+      "2 thìa me",
+      "1 thìa đường",
+      "1 thìa ớt băm",
+      "Hành ngò, thì là",
+      "1 lít nước"
+    ],
+    "instructions": [
+      "Phi thơm hành tỏi, xào cà chua đến khi mềm.",
+      "Thêm nước, me đã lọc lấy nước, dứa cắt miếng.",
+      "Nêm đường, muối vừa ăn, đun sôi 5 phút.",
+      "Cho cá vào nấu chín tới (khoảng 7-10 phút).",
+      "Thêm giá đỗ, ớt, hành ngò trước khi tắt bếp.",
+      "Dùng nóng với cơm trắng."
+    ],
+    "description": "Canh chua Nam Bộ có vị chua dịu từ me và dứa, ngọt từ cá tươi, thường nấu với nhiều loại rau củ."
+  },
+  {
+    "key": "canh_cua",
+    "name": "Canh cua",
+    "ingredients": [
+      "300g cua đồng",
+      "100g rau đay",
+      "100g mồng tơi",
+      "1 quả mướp",
+      "1 thìa hành tím băm",
+      "1 thìa hạt nêm",
+      "1 lít nước"
+    ],
+    "instructions": [
+      "Giã cua, lọc lấy nước cốt qua rây.",
+      "Phi thơm hành tím, cho nước cua vào đun sôi.",
+      "Khi gạch cua nổi lên, thêm rau đay, mồng tơi, mướp cắt miếng.",
+      "Nêm hạt nêm vừa ăn.",
+      "Đun thêm 3 phút thì tắt bếp.",
+      "Ăn nóng với cơm."
+    ],
+    "description": "Canh cua mùa hè thanh mát với vị ngọt tự nhiên từ cua đồng, kết hợp các loại rau mát lành."
+  },
+  {
+    "key": "canh_khoai_tim",
+    "name": "Canh khoai tím",
+    "ingredients": [
+      "2 củ khoai tím",
+      "100g tôm tươi",
+      "Hành lá, thì là",
+      "Gia vị: muối, hạt nêm",
+      "1 lít nước dùng"
+    ],
+    "instructions": [
+      "Khoai tím gọt vỏ, cắt miếng vừa ăn ngâm nước muối",
+      "Phi thơm hành tỏi, xào sơ tôm",
+      "Thêm nước dùng, đun sôi rồi cho khoai vào",
+      "Nấu đến khi khoai chín mềm",
+      "Nêm gia vị, thêm hành thì là trước khi ăn"
+    ],
+    "description": "Món canh màu sắc đẹp mắt từ khoai tím, vị ngọt tự nhiên từ tôm tươi, tốt cho sức khỏe"
+  },
+  {
+    "key": "canh_kho_hoa",
+    "name": "Canh khổ qua",
+    "ingredients": [
+      "2 quả khổ qua vừa",
+      "200g thịt heo xay",
+      "50g nấm mèo",
+      "Hành lá, ngò rí",
+      "Hạt nêm, nước mắm",
+      "1 lít nước dùng"
+    ],
+    "instructions": [
+      "Khổ qua bỏ ruột, cắt khoanh tròn dày 2cm",
+      "Trộn thịt với nấm mèo ngâm mềm thái nhỏ, nêm gia vị",
+      "Nhồi nhân thịt vào các khoanh khổ qua",
+      "Đun sôi nước dùng, thả khổ qua vào hầm 20 phút",
+      "Nêm lại gia vị, thêm hành ngò trước khi tắt bếp"
+    ],
+    "description": "Món canh truyền thống miền Nam với vị đắng nhẹ của khổ qua kết hợp nhân thịt ngọt đậm"
+  },
+  {
+    "key": "canh_tau_hu",
+    "name": "Canh tàu hũ",
+    "ingredients": [
+      "2 bìa đậu hũ non",
+      "100g tôm tươi",
+      "50g nấm rơm",
+      "Hành lá, ngò gai",
+      "Hạt nêm, tiêu",
+      "1 lít nước dùng"
+    ],
+    "instructions": [
+      "Đậu hũ cắt miếng vuông nhỏ",
+      "Tôm bóc vỏ, băm nhuyễn ướp gia vị",
+      "Đun sôi nước dùng, thả nấm rơm vào trước",
+      "Vo viên tôm nhỏ, thả vào nồi canh",
+      "Cuối cùng cho đậu hũ vào, nêm gia vị",
+      "Thêm hành ngò, rắc tiêu khi ăn"
+    ],
+    "description": "Món canh thanh đạm với đậu hũ mềm mịn, viên tôm ngọt tự nhiên, thích hợp cho bữa cơm gia đình"
+  },
+  {
+    "key": "cao_lau",
+    "name": "Cao lầu",
+    "ingredients": [
+      "300g mì cao lầu",
+      "200g thịt heo quay",
+      "100g tôm tươi",
+      "Rau sống (xà lách, giá, húng quế)",
+      "Nước mắm pha",
+      "Bánh tráng nướng giòn"
+    ],
+    "instructions": [
+      "Trần mì qua nước nóng, để ráo",
+      "Thịt heo quay thái mỏng, tôm luộc chín",
+      "Xếp mì ra tô, thêm thịt, tôm và rau sống",
+      "Chan ít nước mắm pha loãng",
+      "Ăn kèm với bánh tráng nướng giòn"
+    ],
+    "description": "Đặc sản Hội An với sợi mì vàng dai, thịt heo quay giòn bì, kết hợp hài hòa với rau sống"
+  },
+  {
+    "key": "ca_kho_to",
+    "name": "Cá kho tộ",
+    "ingredients": [
+      "500g cá (cá lóc hoặc cá trê)",
+      "3 thìa nước màu",
+      "2 thìa đường",
+      "1 thìa ớt băm",
+      "1 thìa tỏi băm",
+      "1 thìa nước mắm",
+      "1 thìa hạt tiêu",
+      "1 củ hành tím",
+      "Nước dừa tươi"
+    ],
+    "instructions": [
+      "Cá cắt khúc 3cm, ướp với tất cả gia vị 30 phút.",
+      "Xếp cá vào nồi đất, thêm nước dừa ngập 1/2 cá.",
+      "Kho lửa nhỏ 1-2 giờ cho nước cạn sệt.",
+      "Lật cá nhẹ nhàng 1-2 lần trong quá trình kho.",
+      "Rắc thêm tiêu, hành phi trước khi ăn."
+    ],
+    "description": "Cá kho tộ truyền thống miền Nam với vị ngọt đậm từ nước dừa, màu vàng nâu bắt mắt từ nước màu."
+  },
+  {
+    "key": "ca_loc_nuong",
+    "name": "Cá lóc nướng",
+    "ingredients": [
+      "1 con cá lóc (khoảng 500g)",
+      "1 thìa nghệ tươi",
+      "2 cây sả",
+      "1 thìa mắm ruốc",
+      "1 thìa đường",
+      "Lá chuối tươi",
+      "Muối ớt"
+    ],
+    "instructions": [
+      "Cá làm sạch, khứa vài đường trên thân",
+      "Ướp cá với nghệ, sả băm, mắm ruốc, đường 30 phút",
+      "Bọc cá trong lá chuối, nướng than hoa 20 phút",
+      "Lật đều các mặt cho chín vàng",
+      "Dùng nóng với muối ớt chanh và rau sống"
+    ],
+    "description": "Món ăn dân dã miền Tây với cá lóc nướng thơm mùi lá chuối, thịt cá trắng ngọt"
+  },
+  {
+    "key": "ca_muoi_xoi",
+    "name": "Cà muối xổi",
+    "ingredients": [
+      "500g cà pháo tươi",
+      "200ml nước muối (tỷ lệ 1:3)",
+      "1 thìa đường",
+      "1 củ tỏi",
+      "Ớt tươi"
+    ],
+    "instructions": [
+      "Cà rửa sạch, ngâm nước muối loãng 10 phút",
+      "Pha nước muối với đường, đun sôi để nguội",
+      "Xếp cà vào lọ thủy tinh cùng tỏi, ớt cắt lát",
+      "Đổ nước muối ngập cà",
+      "Đậy kín, để 2-3 ngày là dùng được"
+    ],
+    "description": "Món dưa muối nhanh có vị chua nhẹ, giòn tan, thường ăn kèm với thịt kho hoặc canh chua"
+  },
+  {
+    "key": "chao_long",
+    "name": "Cháo lòng",
+    "ingredients": [
+      "200g gạo tẻ",
+      "300g lòng heo (tim, gan, dồi trường)",
+      "Hành lá, ngò rí",
+      "Hạt tiêu, muối",
+      "1 lít nước dùng xương",
+      "Quẩy ăn kèm"
+    ],
+    "instructions": [
+      "Gạo vo sạch, ninh nhừ với nước dùng",
+      "Lòng heo làm sạch, luộc chín thái nhỏ",
+      "Khi cháo nhừ, thêm lòng vào đun sôi lại",
+      "Nêm nếm vừa ăn",
+      "Thêm hành ngò, rắc tiêu khi ăn",
+      "Dùng nóng với quẩy giòn"
+    ],
+    "description": "Món cháo đậm đà với đầy đủ phủ tạng heo, thường được dùng làm bữa sáng"
+  },
+  {
+    "key": "chao_vit",
+    "name": "Cháo vịt",
+    "ingredients": [
+      "1/2 con vịt (khoảng 800g)",
+      "200g gạo nếp",
+      "50g gạo tẻ",
+      "1 củ gừng",
+      "Hành lá, ngò rí",
+      "Nước mắm, tiêu"
+    ],
+    "instructions": [
+      "Vịt làm sạch, luộc chín với gừng, giữ lại nước dùng",
+      "Xé thịt vịt thành sợi nhỏ",
+      "Trộn gạo nếp và gạo tẻ, ninh nhừ với nước luộc vịt",
+      "Khi cháo nhừ, thêm thịt vịt vào",
+      "Nêm nước mắm vừa ăn",
+      "Thêm hành ngò, gừng thái sợi khi ăn"
+    ],
+    "description": "Món cháo thơm ngon từ thịt vịt, có vị ấm nóng từ gừng, thường dùng khi trời lạnh"
+  },
+  {
+    "key": "cha_ca_la_vong",
+    "name": "Chả cá Lã Vọng",
+    "ingredients": [
+      "500g cá lăng phi lê",
+      "2 thìa nghệ tươi",
+      "3 cây sả",
+      "1 củ hành tây",
+      "Dầu ăn, thì là",
+      "Bún tươi, lạc rang",
+      "Mắm tôm pha"
+    ],
+    "instructions": [
+      "Ướp cá với nghệ, sả băm, dầu ăn trong 30 phút",
+      "Chiên vàng cá trong chảo dầu nóng",
+      "Xếp cá vào chảo sắt cùng hành tây cắt múi cau",
+      "Rắc thì là lên trên khi gần chín",
+      "Ăn nóng với bún, lạc rang và mắm tôm"
+    ],
+    "description": "Đặc sản Hà Nội nổi tiếng với miếng cá lăng vàng ươm thơm mùi nghệ, ăn kèm thì là và hành tây ngọt lịm."
+  },
+  {
+    "key": "cha_com",
+    "name": "Chả cốm",
+    "ingredients": [
+      "300g thịt heo xay",
+      "100g cốm tươi",
+      "50g mỡ heo",
+      "Lá gừng",
+      "Hạt tiêu, nước mắm",
+      "Giấy bạc nướng"
+    ],
+    "instructions": [
+      "Trộn thịt heo với cốm, mỡ heo thái hạt lựu",
+      "Nêm nước mắm, tiêu vừa ăn",
+      "Vo thành từng miếng dẹt",
+      "Lót lá gừng, gói trong giấy bạc",
+      "Nướng ở 180°C trong 20 phút",
+      "Lật mặt để chín đều"
+    ],
+    "description": "Đặc sản Hà Nội với chả thơm mùi cốm xanh, thường làm trong mùa thu khi cốm mới về"
+  },
+  {
+    "key": "cha_lui",
+    "name": "Chả lụi",
+    "ingredients": [
+      "300g thịt heo xay",
+      "100g mỡ heo",
+      "Hành tím, sả băm",
+      "Bột năng",
+      "Lá chuối",
+      "Nước mắm, tiêu"
+    ],
+    "instructions": [
+      "Trộn thịt với mỡ heo thái hạt lựu",
+      "Thêm hành, sả băm, bột năng và gia vị",
+      "Vo thành từng que dài",
+      "Bọc trong lá chuối thành hình que",
+      "Nướng than hoa đến khi chín vàng",
+      "Ăn nóng với bánh hỏi và nước mắm pha"
+    ],
+    "description": "Đặc sản Huế với chả nướng thơm mùi sả, thường dùng trong các mâm cỗ truyền thống"
+  },
+  {
+    "key": "che_dau_do",
+    "name": "Chè đậu đỏ",
+    "ingredients": [
+      "200g đậu đỏ",
+      "100g đường phèn",
+      "500ml nước cốt dừa",
+      "1 lít nước",
+      "1 thìa cà phê muối"
+    ],
+    "instructions": [
+      "Ngâm đậu đỏ trong nước 4-6 giờ, sau đó rửa sạch.",
+      "Nấu đậu đỏ với 1 lít nước trong nồi áp suất khoảng 20 phút cho mềm.",
+      "Thêm đường phèn, muối, khuấy đều, đun nhỏ lửa thêm 10 phút.",
+      "Múc chè ra bát, thêm nước cốt dừa lên trên, dùng nóng hoặc lạnh."
+    ],
+    "description": "Chè đậu đỏ là món tráng miệng phổ biến ở miền Bắc Việt Nam, đặc biệt ở Hà Nội, thường được dùng trong các dịp lễ Tết hoặc ngày rằm."
+  },
+  {
+    "key": "che_hat_sen",
+    "name": "Chè hạt sen",
+    "ingredients": [
+      "200g hạt sen tươi hoặc khô",
+      "150g đường phèn",
+      "1 lít nước",
+      "1 thìa cà phê tinh chất vani (tùy chọn)"
+    ],
+    "instructions": [
+      "Nếu dùng hạt sen khô, ngâm 4 giờ. Hạt sen tươi rửa sạch.",
+      "Luộc hạt sen với 1 lít nước đến khi mềm (khoảng 30 phút).",
+      "Thêm đường phèn, khuấy tan, đun thêm 5 phút.",
+      "Tắt bếp, thêm vani nếu thích, dùng nóng hoặc lạnh."
+    ],
+    "description": "Chè hạt sen là đặc sản của Huế, miền Trung Việt Nam, được yêu thích nhờ vị ngọt thanh và tác dụng an thần."
+  },
+  {
+    "key": "com_chay_cha_bong",
+    "name": "Cơm cháy chà bông",
+    "ingredients": [
+      "200g cơm nguội",
+      "100g chà bông",
+      "50g tôm khô",
+      "2 củ hành tím",
+      "1 bó hành lá",
+      "2 thìa canh nước mắm",
+      "1 thìa cà phê đường",
+      "Dầu ăn, tiêu"
+    ],
+    "instructions": [
+      "Làm nước mắm: Phi tỏi với dầu, thêm nước mắm, đường, đun sôi, để nguội.",
+      "Xay tôm khô, phi với tỏi, trộn với chà bông, nêm gia vị.",
+      "Dàn mỏng cơm nguội, chiên giòn trong dầu nóng.",
+      "Phết nước mắm lên cơm cháy, rắc chà bông, tôm khô, hành lá thái nhỏ, hành phi."
+    ],
+    "description": "Cơm cháy chà bông là món ăn vặt nổi tiếng ở Sài Gòn, miền Nam Việt Nam, thường được bán ở các quán ăn đường phố."
+  },
+  {
+    "key": "com_chien",
+    "name": "Cơm chiên",
+    "ingredients": [
+      "300g cơm nguội",
+      "2 quả trứng gà",
+      "50g xúc xích hoặc thịt heo",
+      "1 củ cà rốt nhỏ",
+      "50g đậu Hà Lan",
+      "2 thìa canh dầu ăn",
+      "1 thìa canh nước tương",
+      "Hành lá, muối, tiêu"
+    ],
+    "instructions": [
+      "Đánh tan trứng, chiên mỏng, thái sợi.",
+      "Xào cà rốt, đậu Hà Lan, xúc xích với dầu, nêm muối, tiêu.",
+      "Cho cơm nguội vào chảo, xào đều, thêm nước tương, trứng, hành lá.",
+      "Dọn ra đĩa, rắc thêm tiêu."
+    ],
+    "description": "Cơm chiên là món ăn phổ biến khắp Việt Nam, đặc biệt ở các quán ăn gia đình tại miền Nam."
+  },
+  {
+    "key": "com_ga_xoi_mo",
+    "name": "Cơm gà xôi mỡ",
+    "ingredients": [
+      "200g gạo nếp",
+      "200g thịt gà",
+      "50g mỡ gà",
+      "2 thìa canh nước mắm",
+      "1 củ hành tím",
+      "Muối, tiêu, dầu ăn"
+    ],
+    "instructions": [
+      "Ngâm gạo nếp 4 giờ, nấu chín thành xôi.",
+      "Luộc gà, xé nhỏ, ướp nước mắm, tiêu.",
+      "Chiên mỡ gà đến khi vàng, lấy tóp mỡ.",
+      "Trộn xôi với tóp mỡ, thịt gà, hành phi, dùng nóng."
+    ],
+    "description": "Cơm gà xôi mỡ là món ăn đặc trưng của miền Bắc, thường xuất hiện trong các bữa ăn gia đình."
+  },
+  {
+    "key": "com_lam",
+    "name": "Cơm lam",
+    "ingredients": ["300g gạo nếp", "1 ống tre tươi", "Muối, nước sạch"],
+    "instructions": [
+      "Ngâm gạo nếp 4 giờ, trộn chút muối.",
+      "Nhồi gạo vào ống tre, đổ nước vừa đủ, bịt kín đầu ống bằng lá chuối.",
+      "Nướng ống tre trên than hồng 1-2 giờ, lật đều.",
+      "Bóc vỏ tre, cắt cơm lam thành khoanh, dùng với muối vừng."
+    ],
+    "description": "Cơm lam là món ăn truyền thống của các dân tộc Tây Bắc Việt Nam, như Thái, Tày, thường dùng trong các dịp lễ hội."
+  },
+  {
+    "key": "com_tam",
+    "name": "Cơm tấm",
+    "ingredients": [
+      "200g tấm gạo",
+      "100g sườn heo",
+      "1 quả trứng ốp la",
+      "50g chả trứng",
+      "Dưa leo, cà chua, nước mắm, hành phi"
+    ],
+    "instructions": [
+      "Nấu tấm gạo thành cơm.",
+      "Ướp sườn heo với nước mắm, đường, tỏi, nướng chín.",
+      "Chiên trứng ốp la, thái chả trứng.",
+      "Dọn cơm tấm với sườn, trứng, chả, dưa leo, cà chua, chan nước mắm."
+    ],
+    "description": "Cơm tấm là món ăn biểu tượng của Sài Gòn, miền Nam Việt Nam, phổ biến ở các quán ăn bình dân."
+  },
+  {
+    "key": "cua_hap_bia",
+    "name": "Cua hấp bia",
+    "ingredients": [
+      "1kg cua biển",
+      "1 lon bia",
+      "2 thìa canh sả băm",
+      "1 thìa cà phê muối",
+      "Tiêu, gừng"
+    ],
+    "instructions": [
+      "Rửa sạch cua, bỏ yếm.",
+      "Cho sả, gừng vào nồi, đặt cua lên trên, đổ bia vào.",
+      "Hấp cua 15-20 phút đến khi chín đỏ.",
+      "Dọn ra đĩa, chấm muối tiêu chanh."
+    ],
+    "description": "Cua hấp bia là món hải sản phổ biến ở các vùng ven biển miền Trung và Nam Việt Nam, như Nha Trang, Vũng Tàu."
+  },
+  {
+    "key": "cut_lon_xao_me",
+    "name": "Cút lộn xào me",
+    "ingredients": [
+      "10 quả cút lộn",
+      "50g me chua",
+      "2 thìa canh đường",
+      "1 thìa canh nước mắm",
+      "Tỏi, hành tím, ớt, dầu ăn"
+    ],
+    "instructions": [
+      "Luộc cút lộn, bóc vỏ.",
+      "Ngâm me với nước nóng, lọc lấy nước cốt.",
+      "Phi tỏi, hành tím, xào cút lộn, thêm nước cốt me, đường, nước mắm, ớt.",
+      "Đun đến khi sốt sệt, dọn ra đĩa."
+    ],
+    "description": "Cút lộn xào me là món ăn vặt phổ biến ở Sài Gòn, miền Nam Việt Nam, thường được bán ở các quán vỉa hè."
+  },
+  {
+    "key": "ga_chien_nuoc_mam",
+    "name": "Gà chiên nước mắm",
+    "ingredients": [
+      "500g cánh gà",
+      "2 thìa canh nước mắm",
+      "1 thìa canh đường",
+      "Tỏi, ớt, bột chiên giòn, dầu ăn"
+    ],
+    "instructions": [
+      "Ướp gà với muối, tiêu, để 30 phút.",
+      "Tẩm bột chiên giòn, chiên vàng trong dầu nóng.",
+      "Phi tỏi, thêm nước mắm, đường, ớt, đun sệt.",
+      "Cho gà vào sốt, đảo đều, dọn ra đĩa."
+    ],
+    "description": "Gà chiên nước mắm là món ăn phổ biến ở miền Nam Việt Nam, đặc biệt ở các quán nhậu Sài Gòn."
+  },
+  {
+    "key": "ga_hap_la_chanh",
+    "name": "Gà hấp lá chanh",
+    "ingredients": [
+      "500g thịt gà",
+      "10 lá chanh",
+      "1 thìa canh nước mắm",
+      "Gừng, tỏi, muối, tiêu"
+    ],
+    "instructions": [
+      "Ướp gà với nước mắm, gừng, tỏi, muối, tiêu 30 phút.",
+      "Lót lá chanh dưới đáy nồi, đặt gà lên trên.",
+      "Hấp gà 20-25 phút đến khi chín.",
+      "Dọn ra đĩa, chấm muối tiêu chanh."
+    ],
+    "description": "Gà hấp lá chanh là món ăn nhẹ nhàng của miền Bắc Việt Nam, thường thấy ở các bữa ăn gia đình."
+  },
+  {
+    "key": "goi_ca_chich",
+    "name": "Gỏi cá chích",
+    "ingredients": [
+      "300g cá chích",
+      "1 củ hành tây",
+      "50g rau răm",
+      "2 thìa canh nước mắm",
+      "Chanh, ớt, đường, gừng"
+    ],
+    "instructions": [
+      "Làm sạch cá, chiên giòn.",
+      "Thái mỏng hành tây, ngâm nước đá cho giòn.",
+      "Pha nước mắm với chanh, đường, ớt, gừng.",
+      "Trộn cá, hành tây, rau răm với nước mắm, dọn ra đĩa."
+    ],
+    "description": "Gỏi cá chích là món ăn dân dã của miền Trung Việt Nam, đặc biệt ở Quảng Nam, Đà Nẵng."
+  },
+  {
+    "key": "goi_cuon",
+    "name": "Gỏi cuốn",
+    "ingredients": [
+      "200g thịt ba chỉ",
+      "200g tôm",
+      "100g bún gạo",
+      "10 bánh tráng",
+      "Xà lách, húng quế, rau mùi",
+      "Nước mắm, bơ đậu phộng, tỏi, ớt"
+    ],
+    "instructions": [
+      "Luộc thịt và tôm, thái mỏng thịt, bóc vỏ tôm.",
+      "Nấu bún, rửa sạch, để ráo.",
+      "Nhúng bánh tráng vào nước, đặt rau, bún, thịt, tôm, cuốn chặt.",
+      "Pha nước chấm với nước mắm, bơ đậu phộng, tỏi, ớt, dùng kèm."
+    ],
+    "description": "Gỏi cuốn là món khai vị nổi tiếng của miền Nam Việt Nam, đặc biệt ở Sài Gòn, được yêu thích quốc tế."
+  },
+  {
+    "key": "hau_nuong",
+    "name": "Hàu nướng",
+    "ingredients": [
+      "10 con hàu tươi",
+      "50g phô mai mozzarella",
+      "2 thìa canh bơ",
+      "Tỏi, hành lá, muối, tiêu"
+    ],
+    "instructions": [
+      "Rửa sạch hàu, tách vỏ, giữ lại một nửa vỏ.",
+      "Phi tỏi với bơ, rưới lên hàu.",
+      "Rắc phô mai, hành lá, nướng 5-7 phút ở 200°C.",
+      "Dọn ra đĩa, chấm muối tiêu chanh."
+    ],
+    "description": "Hàu nướng là món hải sản phổ biến ở các thành phố ven biển như Nha Trang, Phú Quốc, miền Nam Việt Nam."
+  },
+  {
+    "key": "hu_tieu",
+    "name": "Hủ tiếu",
+    "ingredients": [
+      "200g hủ tiếu khô",
+      "200g thịt heo",
+      "50g tôm",
+      "Xương heo, giá đỗ, hành lá",
+      "Nước mắm, muối, đường"
+    ],
+    "instructions": [
+      "Hầm xương heo 2 giờ, nêm nước mắm, muối, đường.",
+      "Luộc hủ tiếu, để ráo.",
+      "Luộc thịt, tôm, thái mỏng thịt.",
+      "Cho hủ tiếu vào tô, thêm thịt, tôm, giá đỗ, hành lá, chan nước dùng."
+    ],
+    "description": "Hủ tiếu là món ăn đặc trưng của miền Nam Việt Nam, đặc biệt ở Sài Gòn và Nam Định."
+  },
+  {
+    "key": "khau_nhuc",
+    "name": "Khẩu nhục",
+    "ingredients": [
+      "500g thịt ba chỉ",
+      "2 thìa canh nước mắm",
+      "1 thìa canh đường",
+      "Tỏi, gừng, muối"
+    ],
+    "instructions": [
+      "Ướp thịt với nước mắm, đường, tỏi, gừng 1 giờ.",
+      "Hấp thịt 1 giờ đến khi mềm.",
+      "Thái mỏng, dùng với cơm hoặc súp."
+    ],
+    "description": "Khẩu nhục là món ăn có nguồn gốc từ người Hoa tại Việt Nam, phổ biến ở Sài Gòn."
+  },
+  {
+    "key": "kho_muc_nuong",
+    "name": "Khô mực nướng",
+    "ingredients": [
+      "200g khô mực",
+      "2 thìa canh dầu ăn",
+      "1 thìa canh tương ớt",
+      "Muối, tiêu"
+    ],
+    "instructions": [
+      "Ngâm khô mực trong nước ấm 30 phút, để ráo.",
+      "Ướp mực với dầu, muối, tiêu.",
+      "Nướng mực trên than hồng 5-7 phút, phết tương ớt.",
+      "Xé nhỏ, chấm tương ớt."
+    ],
+    "description": "Khô mực nướng là món ăn vặt phổ biến ở các vùng ven biển miền Trung và Nam Việt Nam."
+  },
+  {
+    "key": "kho_quet",
+    "name": "Kho quẹt",
+    "ingredients": [
+      "50g tôm khô",
+      "50g thịt ba chỉ",
+      "2 thìa canh nước mắm",
+      "1 thìa canh đường",
+      "Tỏi, hành tím, ớt"
+    ],
+    "instructions": [
+      "Xay tôm khô, thái nhỏ thịt ba chỉ.",
+      "Phi tỏi, hành tím, xào thịt và tôm khô.",
+      "Thêm nước mắm, đường, ớt, đun đến khi sệt.",
+      "Dọn ra chén, dùng với cơm hoặc rau luộc."
+    ],
+    "description": "Khô quẹt là món dân dã của miền Tây Nam Bộ, thường xuất hiện trong bữa cơm gia đình."
+  },
+  {
+    "key": "lap_xuong",
+    "name": "Lạp xưởng",
+    "ingredients": [
+      "500g thịt heo xay",
+      "50g mỡ heo",
+      "2 thìa canh nước mắm",
+      "1 thìa canh đường",
+      "Tỏi, rượu trắng, vỏ lòng heo"
+    ],
+    "instructions": [
+      "Trộn thịt, mỡ, nước mắm, đường, tỏi, rượu trắng.",
+      "Nhồi hỗn hợp vào vỏ lòng heo, buộc chặt.",
+      "Phơi nắng hoặc sấy khô 2-3 ngày.",
+      "Nướng hoặc chiên, thái mỏng, dùng kèm cơm."
+    ],
+    "description": "Lạp xưởng là món ăn có nguồn gốc từ người Hoa, phổ biến ở miền Nam Việt Nam, đặc biệt ở Sài Gòn."
+  },
+  {
+    "key": "long_luoc",
+    "name": "Lòng luộc",
+    "ingredients": [
+      "500g lòng heo",
+      "1 thìa canh giấm",
+      "Gừng, muối, tiêu",
+      "Nước mắm, ớt"
+    ],
+    "instructions": [
+      "Rửa lòng heo với giấm và muối, để sạch mùi.",
+      "Luộc lòng với gừng, muối 20 phút.",
+      "Thái mỏng, chấm nước mắm ớt."
+    ],
+    "description": "Lòng luộc là món ăn phổ biến khắp Việt Nam, đặc biệt ở các quán nhậu miền Nam."
+  },
+  {
+    "key": "luon_om_chuoi_dau",
+    "name": "Lươn om chuối đậu",
+    "ingredients": [
+      "300g lươn",
+      "2 quả chuối xanh",
+      "100g đậu phụ",
+      "2 thìa canh nước mắm",
+      "Nghệ, tỏi, hành tím, muối"
+    ],
+    "instructions": [
+      "Làm sạch lươn, ướp với nghệ, muối.",
+      "Thái chuối, ngâm nước muối, chiên đậu phụ vàng.",
+      "Phi tỏi, hành tím, xào lươn, thêm chuối, đậu phụ, nước mắm.",
+      "Đun nhỏ lửa 20 phút, dọn ra đĩa."
+    ],
+    "description": "Lươn om chuối đậu là món dân dã của miền Bắc Việt Nam, đặc biệt ở các vùng quê."
+  },
+  {
+    "key": "mam_chung",
+    "name": "Mắm chưng",
+    "ingredients": [
+      "100g mắm cá lóc",
+      "100g thịt heo băm",
+      "2 quả trứng gà",
+      "Tỏi, hành tím, tiêu"
+    ],
+    "instructions": [
+      "Trộn mắm, thịt băm, trứng, tỏi, hành tím, tiêu.",
+      "Cho hỗn hợp vào chén, hấp 20 phút.",
+      "Dọn ra, dùng với cơm hoặc rau luộc."
+    ],
+    "description": "Mắm chưng là món ăn truyền thống của miền Tây Nam Bộ, phổ biến ở Cần Thơ, An Giang."
+  },
+  {
+    "key": "mam_tep_chung_thit",
+    "name": "Mắm tép chưng thịt",
+    "ingredients": [
+      "100g mắm tép",
+      "100g thịt heo băm",
+      "1 thìa canh đường",
+      "Tỏi, hành tím, tiêu"
+    ],
+    "instructions": [
+      "Phi tỏi, hành tím, xào thịt băm.",
+      "Thêm mắm tép, khuấy đều, đun nhỏ lửa 10 phút.",
+      "Dọn ra chén, dùng với cơm hoặc rau luộc."
+    ],
+    "description": "Mắm tép chưng thịt là món ăn dân dã của miền Tây Nam Bộ, thường dùng làm nước chấm hoặc ăn kèm cơm."
+  },
+  {
+    "key": "mi_quang",
+    "name": "Mì Quảng",
+    "ingredients": [
+      "200g mì Quảng",
+      "200g thịt heo",
+      "50g tôm",
+      "Đậu phộng rang, bánh tráng, rau sống",
+      "Nước mắm, nghệ, tỏi"
+    ],
+    "instructions": [
+      "Nấu nước dùng với xương heo, nghệ, nêm nước mắm.",
+      "Luộc mì, để ráo.",
+      "Xào thịt, tôm với tỏi, nghệ.",
+      "Cho mì vào tô, thêm thịt, tôm, rau sống, đậu phộng, bánh tráng, chan nước dùng."
+    ],
+    "description": "Mì Quảng là món ăn đặc trưng của Quảng Nam, miền Trung Việt Nam, nổi tiếng với màu vàng nghệ."
+  },
+  {
+    "key": "mi_xao_gion",
+    "name": "Mì xào giòn",
+    "ingredients": [
+      "200g mì trứng",
+      "100g thịt heo",
+      "50g tôm",
+      "Cà rốt, bắp cải, hành tây",
+      "Nước tương, dầu ăn, tỏi"
+    ],
+    "instructions": [
+      "Chiên mì trứng giòn, để ráo dầu.",
+      "Xào tỏi, thịt, tôm, rau củ, nêm nước tương.",
+      "Đổ hỗn hợp lên mì giòn, dùng ngay."
+    ],
+    "description": "Mì xào giòn là món ăn phổ biến ở Sài Gòn, miền Nam Việt Nam, được yêu thích ở các quán ăn Hoa."
+  },
+  {
+    "key": "muc_nhoi_thit",
+    "name": "Mực nhồi thịt",
+    "ingredients": [
+      "4 con mực",
+      "200g thịt heo băm",
+      "50g miến",
+      "Nước mắm, tỏi, hành tím, tiêu"
+    ],
+    "instructions": [
+      "Ngâm miến, trộn với thịt băm, tỏi, hành tím, tiêu.",
+      "Nhồi hỗn hợp vào mực, khâu kín.",
+      "Chiên hoặc hấp mực 15 phút, thái lát.",
+      "Chấm nước mắm ớt."
+    ],
+    "description": "Mực nhồi thịt là món ăn sáng tạo của miền Trung Việt Nam, phổ biến ở Đà Nẵng, Huế."
+  },
+  {
+    "key": "mut_dua",
+    "name": "Mứt dừa",
+    "ingredients": [
+      "1kg cùi dừa bánh tẻ (dừa non vừa)",
+     "400-500g đường trắng",
+      "1 ống vani (tùy chọn)",
+      "Màu thực phẩm tự nhiên (lá dứa, cà rốt, củ dền...) nếu muốn làm nhiều màu"
+    ],
+    "instructions": [
+      "Cạo vỏ nâu, rửa sạch cùi dừa, thái sợi dài vừa ăn.",
+      "Rửa dừa nhiều lần đến khi nước trong để loại bỏ dầu dừa.",
+      "Ướp dừa với đường trong 3–4 giờ cho tan hết.",
+      "Cho dừa đã ngấm đường vào chảo, sên lửa vừa đến khi cạn nước.",
+      "Giảm nhỏ lửa, sên liên tục đến khi đường kết tinh trắng bám đều.",
+      "Thêm vani nếu muốn, để nguội và bảo quản nơi khô ráo."
+    ],
+    "description": "Mứt dừa là món ăn truyền thống ngày Tết ở miền Nam và miền Bắc, nổi bật với sợi dừa dẻo dai, ngọt thanh và hương thơm nhẹ nhàng."
+  },
+  {
+    "key": "nam_pia",
+    "name": "Nậm pịa",
+    "ingredients": [
+      "200g thịt bò",
+      "100g lòng bò",
+      "Gia vị pịa, tỏi, gừng",
+      "Rau mùi, muối"
+    ],
+    "instructions": [
+      "Nấu lòng bò với gừng, thái nhỏ.",
+      "Xào thịt bò, lòng với tỏi, gia vị pịa.",
+      "Đun nhỏ lửa 20 phút, thêm rau mùi.",
+      "Dọn ra bát, dùng nóng."
+    ],
+    "description": "Nậm pịa là món ăn truyền thống của dân tộc Thái ở Tây Bắc Việt Nam, thường dùng trong lễ hội."
+  },
+  {
+    "key": "nem_chua",
+    "name": "Nem chua",
+    "ingredients": [
+      "500g thịt heo xay",
+      "100g da heo",
+      "2 thìa canh thính",
+      "Tỏi, ớt, đường, muối",
+      "Lá chuối"
+    ],
+    "instructions": [
+      "Trộn thịt, da heo, thính, tỏi, ớt, đường, muối.",
+      "Gói hỗn hợp trong lá chuối, để 2-3 ngày cho lên men.",
+      "Thái lát, dùng kèm rau sống."
+    ],
+    "description": "Nem chua là món ăn nổi tiếng của Thanh Hóa, miền Bắc Việt Nam, được yêu thích toàn quốc."
+  },
+  {
+    "key": "oc_buou_hap",
+    "name": "Ốc bươu hấp",
+    "ingredients": [
+      "500g ốc bươu",
+      "2 thìa canh sả băm",
+      "1 thìa canh gừng",
+      "Muối, tiêu, lá chanh"
+    ],
+    "instructions": [
+      "Ngâm ốc bươu 2 giờ, rửa sạch.",
+      "Cho sả, gừng, lá chanh vào nồi, đặt ốc lên trên.",
+      "Hấp 10-15 phút, chấm muối tiêu chanh."
+    ],
+    "description": "Ốc bươu hấp là món ăn phổ biến ở miền Tây Nam Bộ, đặc biệt ở Cần Thơ."
+  },
+  {
+    "key": "oc_huong_xao",
+    "name": "Ốc hương xào",
+    "ingredients": [
+      "500g ốc hương",
+      "2 thìa canh nước mắm",
+      "1 thìa canh đường",
+      "Tỏi, hành tím, ớt"
+    ],
+    "instructions": [
+      "Ngâm ốc hương 2 giờ, rửa sạch.",
+      "Phi tỏi, hành tím, xào ốc với nước mắm, đường, ớt.",
+      "Đun đến khi ốc chín, dọn ra đĩa."
+    ],
+    "description": "Ốc hương xào là món hải sản phổ biến ở các vùng ven biển miền Nam Việt Nam, như Vũng Tàu."
+  },
+  {
+    "key": "",
+    "name": "Ốc lến xào dừa",
+    "ingredients": [
+      "500g ốc lến",
+      "200ml nước cốt dừa",
+      "1 thìa canh nước mắm",
+      "Tỏi, hành tím, sả"
+    ],
+    "instructions": [
+      "Ngâm ốc lến 2 giờ, rửa sạch.",
+      "Phi tỏi, hành tím, sả, xào ốc.",
+      "Thêm nước cốt dừa, nước mắm, đun sệt.",
+      "Dọn ra đĩa, dùng nóng."
+    ],
+    "description": "Ốc lến xào dừa là món ăn đặc trưng của miền Tây Nam Bộ, nổi tiếng ở Bạc Liêu."
+  },
+  {
+    "key": "pho",
+    "name": "Phở",
+    "ingredients": [
+      "1kg xương bò",
+      "300g thịt bò thăn",
+      "200g bánh phở",
+      "Hành tây, gừng, quế, hồi",
+      "Nước mắm, giá đỗ, rau thơm"
+    ],
+    "instructions": [
+      "Hầm xương bò 6 giờ, thêm hành tây, gừng, quế, hồi.",
+      "Lọc nước dùng, nêm nước mắm.",
+      "Luộc bánh phở, cho vào tô, thêm thịt bò thái mỏng, chan nước dùng nóng.",
+      "Thêm giá đỗ, rau thơm, chanh, ớt."
+    ],
+    "description": "Phở là món ăn quốc hồn của Việt Nam, bắt nguồn từ Hà Nội, miền Bắc, nay phổ biến toàn cầu."
+  },
+  {
+    "key": "rau_muon_xao",
+    "name": "Rau muống xào",
+    "ingredients": [
+      "300g rau muống",
+      "2 thìa canh nước mắm",
+      "Tỏi, dầu ăn, muối"
+    ],
+    "instructions": [
+      "Rửa sạch rau muống, để ráo.",
+      "Phi tỏi, xào rau muống với nước mắm, muối.",
+      "Đun 3-5 phút, dọn ra đĩa."
+    ],
+    "description": "Rau muống xào là món ăn phổ biến khắp Việt Nam, đặc biệt ở các bữa cơm gia đình miền Nam."
+  },
+  {
+    "key": "sup_cua",
+    "name": "Súp cua",
+    "ingredients": [
+      "200g thịt cua",
+      "1 lít nước dùng gà",
+      "2 quả trứng gà",
+      "Bột bắp, hành lá, ngò"
+    ],
+    "instructions": [
+      "Nấu nước dùng gà, thêm thịt cua.",
+      "Hòa bột bắp với nước, đổ từ từ vào súp, khuấy đều.",
+      "Đánh tan trứng, đổ vào súp, khuấy nhẹ.",
+      "Thêm hành lá, ngò, dùng nóng."
+    ],
+    "description": "Súp cua là món ăn phổ biến ở Sài Gòn, miền Nam Việt Nam, thường thấy ở các quán ăn Hoa."
+  },
+  {
+    "key": "dau_hu_nhoi_thit",
+    "name": "Đậu hũ nhồi thịt",
+    "ingredients": [
+      "4 miếng đậu hũ",
+      "200g thịt heo băm",
+      "1 thìa canh nước mắm",
+      "Tỏi, hành tím, tiêu"
+    ],
+    "instructions": [
+      "Trộn thịt băm với nước mắm, tỏi, hành tím, tiêu.",
+      "Khoét lỗ đậu hũ, nhồi thịt vào.",
+      "Chiên hoặc hấp đậu hũ 15 phút.",
+      "Chấm nước mắm ớt."
+    ],
+    "description": "Đậu hũ nhồi thịt là món ăn sáng tạo của miền Nam Việt Nam, phổ biến ở Sài Gòn."
+  },
+  {
+    "key": "dau_hu_non",
+    "name": "Đậu hũ non",
+    "ingredients": [
+      "200g đậu hũ non",
+      "2 thìa canh nước mắm",
+      "Hành lá, tiêu, ớt"
+    ],
+    "instructions": [
+      "Cắt đậu hũ non thành miếng nhỏ.",
+      "Hấp đậu hũ 5 phút.",
+      "Rưới nước mắm, rắc hành lá, tiêu, ớt.",
+      "Dọn ra đĩa, dùng nóng."
+    ],
+    "description": "Đậu hũ non là món ăn nhẹ của miền Bắc Việt Nam, thường dùng trong súp hoặc ăn kèm."
+  },
+  {
+    "key": "thit_dong",
+    "name": "Thịt đông",
+    "ingredients": [
+      "500g thịt heo",
+      "50g nấm mèo",
+      "2 thìa canh nước mắm",
+      "Tiêu, hành tím"
+    ],
+    "instructions": [
+      "Luộc thịt heo, thái mỏng.",
+      "Ngâm nấm mèo, thái nhỏ.",
+      "Nấu thịt, nấm mèo với nước mắm, hành tím, để nguội.",
+      "Cho vào khuôn, để lạnh 4 giờ, thái lát."
+    ],
+    "description": "Thịt đông là món ăn Tết truyền thống của miền Bắc Việt Nam, đặc biệt ở Hà Nội."
+  },
+  {
+    "key": "thit_kho_tau",
+    "name": "Thịt kho tàu",
+    "ingredients": [
+      "500g thịt ba chỉ",
+      "4 quả trứng vịt",
+      "2 thìa canh nước mắm",
+      "1 thìa canh đường",
+      "Nước dừa, hành tím"
+    ],
+    "instructions": [
+      "Ướp thịt với nước mắm, đường, hành tím 30 phút.",
+      "Luộc trứng, bóc vỏ.",
+      "Xào thịt, thêm nước dừa, trứng, đun nhỏ lửa 2 giờ.",
+      "Dọn ra đĩa, dùng với cơm."
+    ],
+    "description": "Thịt kho tàu là món ăn Tết đặc trưng của miền Nam Việt Nam, phổ biến ở Sài Gòn."
+  },
+  {
+    "key": "thit_trau_gac_bep",
+    "name": "Thịt trâu gác bếp",
+    "ingredients": [
+      "500g thịt trâu",
+      "2 thìa canh muối",
+      "1 thìa canh mắc khén",
+      "Tỏi, gừng"
+    ],
+    "instructions": [
+      "Ướp thịt với muối, mắc khén, tỏi, gừng 2 giờ.",
+      "Treo thịt trên gác bếp hoặc sấy khô 2-3 ngày.",
+      "Nướng lại trước khi dùng, thái mỏng."
+    ],
+    "description": "Thịt trâu gác bếp là món ăn truyền thống của dân tộc Thái, Tây Bắc Việt Nam."
+  },
+  {
+    "key": "tiet_canh",
+    "name": "Tiết canh",
+    "ingredients": [
+      "500ml máu heo tươi",
+      "200g thịt heo luộc",
+      "2 thìa canh nước mắm",
+      "Rau thơm, đậu phộng rang"
+    ],
+    "instructions": [
+      "Trộn máu heo với nước mắm, để 10 phút.",
+      "Thái mỏng thịt heo, xếp vào bát.",
+      "Đổ máu vào bát, để đông 1 giờ.",
+      "Rắc rau thơm, đậu phộng, dùng lạnh."
+    ],
+    "description": "Tiết canh là món ăn truyền thống của miền Bắc Việt Nam, thường dùng trong các dịp lễ."
+  },
+  {
+    "key": "tom_rang",
+    "name": "Tôm rang",
+    "ingredients": [
+      "300g tôm",
+      "2 thìa canh nước mắm",
+      "1 thìa canh đường",
+      "Tỏi, hành tím, ớt"
+    ],
+    "instructions": [
+      "Rửa sạch tôm, để ráo.",
+      "Phi tỏi, hành tím, xào tôm với nước mắm, đường, ớt.",
+      "Đun đến khi tôm chín, dọn ra đĩa."
+    ],
+    "description": "Tôm rang là món ăn phổ biến ở miền Trung Việt Nam, đặc biệt ở Huế."
+  },
+  {
+    "key": "trung_op_la",
+    "name": "Trứng ốp la",
+    "ingredients": [
+      "2 quả trứng gà",
+      "1 thìa canh dầu ăn",
+      "Muối, tiêu, hành lá"
+    ],
+    "instructions": [
+      "Đun nóng dầu trong chảo.",
+      "Đập trứng vào chảo, chiên 2-3 phút.",
+      "Rắc muối, tiêu, hành lá.",
+      "Dọn ra đĩa, dùng với bánh mì."
+    ],
+    "description": "Trứng ốp la là món ăn sáng phổ biến khắp Việt Nam, đặc biệt ở Sài Gòn."
+  },
+  {
+    "key": "trung_vit_lon",
+    "name": "Trứng vịt lộn",
+    "ingredients": ["4 quả trứng vịt lộn", "Rau răm, muối tiêu", "Gừng, ớt"],
+    "instructions": [
+      "Luộc trứng vịt lộn 15 phút.",
+      "Bóc vỏ, chấm muối tiêu.",
+      "Thêm rau răm, gừng, ớt."
+    ],
+    "description": "Trứng vịt lộn là món ăn bổ dưỡng của miền Nam Việt Nam, phổ biến ở Sài Gòn."
+  },
+  {
+    "key": "xoi_gac",
+    "name": "Xôi gấc",
+    "ingredients": [
+      "200g gạo nếp",
+      "100g thịt gấc",
+      "2 thìa canh đường",
+      "50ml nước cốt dừa"
+    ],
+    "instructions": [
+      "Ngâm gạo nếp 4 giờ.",
+      "Trộn gạo với thịt gấc, đường, hấp 30 phút.",
+      "Rưới nước cốt dừa, dùng nóng."
+    ],
+    "description": "Xôi gấc là món ăn lễ Tết của miền Bắc Việt Nam, mang màu đỏ may mắn."
+  },
+  {
+    "key": "xoi_nep_than",
+    "name": "Xôi nếp than",
+    "ingredients": [
+      "200g gạo nếp than",
+      "2 thìa canh đường",
+      "50ml nước cốt dừa",
+      "Muối"
+    ],
+    "instructions": [
+      "Ngâm gạo nếp than 6 giờ.",
+      "Hấp gạo 40 phút, trộn với đường, muối.",
+      "Rưới nước cốt dừa, dùng nóng."
+    ],
+    "description": "Xôi nếp than là món tráng miệng của miền Bắc Việt Nam, phổ biến ở Hà Nội."
+  },
+  {
+    "key": "xoi_xeo",
+    "name": "Xôi xéo",
+    "ingredients": [
+      "200g gạo nếp",
+      "100g đậu xanh",
+      "2 thìa canh đường",
+      "Dầu ăn, muối"
+    ],
+    "instructions": [
+      "Ngâm gạo nếp và đậu xanh 4 giờ.",
+      "Hấp gạo nếp 30 phút, đậu xanh nấu chín, nghiền nhuyễn.",
+      "Trộn xôi với đậu xanh, đường, muối.",
+      "Rưới dầu ăn, dùng nóng."
+    ],
+    "description": "Xôi xéo là món ăn sáng truyền thống của Hà Nội, miền Bắc Việt Nam."
+  }
+]
